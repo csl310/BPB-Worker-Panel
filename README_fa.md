@@ -9,7 +9,7 @@
 
 ## معرفی
 
-این پروژه توسعه‌ی یک پنل کاربری برای اسکریپت <a href="https://github.com/yonggekkk/Cloudflare-workers-pages-vless">پروکسی Cloudflare-workers/pages</a> ایجاد شده توسط <a href="https://github.com/yonggekkk">yonggekkk</a> می‌باشد.
+این پروژه توسعه‌ی یک پنل کاربری برای اسکریپت <a href="https://github.com/s">پروکسی Cloudflare-workers/pages</a> ایجاد شده توسط <a href="https://github.com/amclubs">amclubs</a> می‌باشد.
 
 ### این پنل به دو روش راه‌اندازی می‌شود:
 
