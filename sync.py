@@ -4,7 +4,7 @@ import os
 # 环境变量
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 SOURCE_REPO = 'bia-pain-bache/BPB-Worker-Panel'
-TARGET_REPO = 'ansoncloud8/BPB-Worker-Panel'
+TARGET_REPO = 'amclubs/BPB-Worker-Panel'
 
 # Headers for GitHub API
 headers = {'Authorization': f'token {GITHUB_TOKEN}'}
