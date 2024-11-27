@@ -16,12 +16,6 @@
 - راه‌اندازی با **Cloudflare Worker**
 - راه‌اندازی با **Cloudflare Worker**
 <br>
-
-🌟 اگر پروژه‌ی **BPB Panel** براتون مفید بوده، حمایت شما مایه‌ی دلگرمی من هست 🌟
-<ul dir="rtl">
-  <li><code>0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158</code> <strong>:USDT (BEP20)</strong></li>
-</ul>
-
 ## ویژگی‌ها
 <br>
 <ol dir="rtl">
